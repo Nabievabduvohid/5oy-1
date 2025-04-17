@@ -2,10 +2,10 @@ console.log("salom JAVASCRIPT");
 
 
 
-const ism = prompt(" ismingizi kiriting");
-console.log("Abduvohid");
+const ism =prompt(" ismingizi kiriting");
+console.log(ism);
 const familya = prompt ("Familiyangizni kiriting")
-console.log("Nabiev");
+console.log(familya);
 const yosh = prompt("Yoshingizi kiriting")
-console.log(14);
+console.log(yosh);
 
